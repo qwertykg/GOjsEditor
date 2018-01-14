@@ -1,0 +1,20 @@
+{
+  "name": "gojseditor",
+  "version": "1.0.0",
+  "description": "An editor for GOjs to make dynamic docs",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack",
+    "start": "http-server"
+  },
+  "author": "Keeran Govender",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gojs": "^1.8.8",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.2.0",
+    "gulp-run": "^1.7.1",
+    "webpack": "^3.10.0"
+  }
+}
